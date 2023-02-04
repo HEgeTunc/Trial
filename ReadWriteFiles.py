@@ -23,6 +23,9 @@ def func2(*args):
     return sum(args)
 
 
+print(func2(3, 4, 5, 6))
+
+
 #another change is done
 """""
 with open("/Users/hasanegetunc/PycharmProjects/pythonProject3/file1.csv", "w") as f:
