@@ -16,6 +16,16 @@ def fib(integer):
 fib(100)
 
 #this line is to make changes
+#xyzxyzabc
+
+
+def func2(*args):
+    return sum(args)
+
+
+print(func2(3, 4, 5, 6))
+
+
 #another change is done
 
 
