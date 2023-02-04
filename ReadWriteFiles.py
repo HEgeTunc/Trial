@@ -94,3 +94,4 @@ while True:
                                                          intV, 2))
         print(f"Gcd {intV} is:", proper_gcd("/Users/hasanegetunc/PycharmProjects/pythonProject3/file1.csv", intV, 3))
 """
+#file end of statement
