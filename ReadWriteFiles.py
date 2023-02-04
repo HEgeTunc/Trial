@@ -16,6 +16,13 @@ def fib(integer):
 fib(100)
 
 #this line is to make changes
+#xyzxyzabc
+
+
+def func2(*args):
+    return sum(args)
+
+
 #another change is done
 """""
 with open("/Users/hasanegetunc/PycharmProjects/pythonProject3/file1.csv", "w") as f:
