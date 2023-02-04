@@ -30,6 +30,10 @@ print(func2(3, 4, 5, 6))
 
 
 #sjkfnsbfhs
+
+#do some extra jobs
+for i in range(0, 100):
+    print(f'{i}, step executed')
 """""
 with open("/Users/hasanegetunc/PycharmProjects/pythonProject3/file1.csv", "w") as f:
     f.write("i\t, fib\t, fact\t, gcd,\n")
